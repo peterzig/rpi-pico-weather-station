@@ -1,6 +1,10 @@
 # rpi-pico-weather-station
 Just a simple rpi pico project with custom chars and boot screen (all user replaceable ;)
 
+Thanks to:
+1) https://github.com/T-622/RPI-PICO-I2C-LCD/
+2) Sebastian Plamauer, oeplse@gmail.com
+
 <img width="1653" height="717" alt="Rpi-pico-weather-station" src="https://github.com/user-attachments/assets/6f7b113e-b650-48f5-883f-8e990219d5fd" />
 Wiring Diagram in Fritzing
 
